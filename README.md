@@ -49,3 +49,12 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+![White Kyurem](images/kyurem-white.gif)
+![Infernape](images/infernape.gif)
+![Steelix](images/steelix.gif)
+![Garchomp](images/garchomp.gif)
+![Golurk](images/golurk.gif)
+![Scolipede](images/scolipede.gif)
+![Electivire](images/electivire.gif)
+![Kyogre](images/kyogre.gif)
