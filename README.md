@@ -14,6 +14,7 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 # 🐈‍⬛ GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniobenitez01&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobenitez01&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode](https://leetcode.card.workers.dev/AntBenitez01?theme=dark&font=baloo&extension=null&border=2&border_radius=8)
 
 # 🖥️ Languages and Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
