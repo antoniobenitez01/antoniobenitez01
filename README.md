@@ -11,11 +11,11 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 - 🎮 Worked with Unity3D Engine and C#
 - 🟠 3D Animation and Modelling Hobbyist
 
-# 🐈‍⬛ Online Programming Stats
-## GitHub
+# 🌐 Online Programming Stats
+## 🐈‍⬛ GitHub
 [![Anurag's GitHub stats](https://github-readme-stats-gamma-five-46.vercel.app/api?username=antoniobenitez01&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobenitez01&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-## LeetCode
+## 🔶 LeetCode
 ![LeetCode](https://leetcode.card.workers.dev/AntBenitez01?theme=dark&font=baloo&extension=null&border=2&border_radius=8)
 
 # 🖥️ Languages and Frameworks
