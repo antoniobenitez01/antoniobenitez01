@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer eager to take on new opportunities to lear
 and Frontend Development in JavaScript, Angular, HTML and CSS.
 - 💻 Junior Full Stack Developer
 - 👨‍🎓 Honor Graduate in Cross-Platform Application Development
-- 📝 Currently learning C
+- 📝 Currently learning Angular and Flutter
 - 💪 Proficient in Java, JavaScript and SQL
 - 🎮 Worked with Unity3D Engine and C#
 - 🟠 3D Animation and Modelling Hobbyist
