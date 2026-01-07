@@ -53,4 +53,3 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 ![Scolipede](images/scolipede.gif)
 ![Electivire](images/electivire.gif)
 ![Kyogre](images/kyogre.gif)
-![Metagross](images/metagross.gif)
