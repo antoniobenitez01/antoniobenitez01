@@ -50,6 +50,7 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 ![Steelix](images/steelix.gif)
 ![Aggron](images/aggron.gif)
 ![Garchomp](images/garchomp.gif)
-![Metagross](images/metagross.gif)
+![Scolipede](images/scolipede.gif)
 ![Electivire](images/electivire.gif)
 ![Kyogre](images/kyogre.gif)
+![Metagross](images/metagross.gif)
