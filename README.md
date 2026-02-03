@@ -7,7 +7,7 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 - 💻 Junior Full Stack Developer
 - 👨‍🎓 Honor Graduate in Cross-Platform Application Development
 - 📝 Currently learning Angular and Flutter
-- 💪 Proficient in Java, JavaScript and SQL
+- 💪 Proficient in Java, Python, Flutter and SQL
 - 🎮 Worked with Unity3D Engine and C#
 - 🟠 3D Animation and Modelling Hobbyist
 
@@ -52,4 +52,4 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 ![Garchomp](images/garchomp.gif)
 ![Scolipede](images/scolipede.gif)
 ![Electivire](images/electivire.gif)
-![Kyogre](images/kyogre.gif)
+![Regigigas](images/regigigas.gif)
