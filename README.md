@@ -10,7 +10,7 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 - 💪 Proficient in Java, Angular, Python and SQL
 - 🎮 Worked with Unity3D Engine and C#
 - 🟠 3D Animation and Modelling Hobbyist
-
+<br/><br/><br/>
 # 🖥️ Languages and Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -44,7 +44,7 @@ and Frontend Development in JavaScript, Angular, HTML and CSS.
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-
+<br/><br/><br/>
 ![White Kyurem](images/kyurem-white.gif)
 ![Infernape](images/infernape.gif)
 ![Steelix](images/steelix.gif)
